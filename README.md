@@ -5,6 +5,10 @@ A small but complete full‑stack task manager:
 - Express + MongoDB backend
 - JWT auth (bcrypt password hashing)
 
+<img width="1338" height="736" alt="image" src="https://github.com/user-attachments/assets/54fdacb5-fe88-4263-9512-b440568a5619" />
+
+<img width="1342" height="849" alt="image" src="https://github.com/user-attachments/assets/01b570ff-e364-495d-8c45-bdc07f29e751" />
+
 ## Features
 - Signup / Login
 - JWT-protected routes
